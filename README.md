@@ -1,4 +1,4 @@
-# use-geolocation3
+# use-geolocation
 
 Access and monitor a user's geolocation (after they give permission) with useGeolocation.
 
